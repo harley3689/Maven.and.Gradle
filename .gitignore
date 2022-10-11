@@ -4,6 +4,7 @@ Other/
 Collection/
 *.iml
 *.idea
+.idea/
 README.md
 Generics/
 List/
