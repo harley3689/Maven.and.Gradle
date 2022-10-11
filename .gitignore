@@ -5,6 +5,11 @@ Collection/
 *.iml
 *.idea
 .idea/
+target/
+Other/
+Collection/
+*.iml
+*.idea
 README.md
 Generics/
 List/
