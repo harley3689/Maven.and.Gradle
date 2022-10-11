@@ -15,5 +15,6 @@ Lambda/
 Stream/
 InputOutput/
 harley
+*encodings.xml
 *.pub
 
