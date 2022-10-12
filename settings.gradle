@@ -1,0 +1,6 @@
+rootProject.name = 'gradle.16'
+
+include 'api'
+include 'db'
+include 'service'
+
